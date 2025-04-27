@@ -1,0 +1,13 @@
+E:\Users\azaza\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.exe.config
+E:\Users\azaza\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.exe
+E:\Users\azaza\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.pdb
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csprojAssemblyReference.cache
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.frmMain.resources
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.frmUser.resources
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.Properties.Resources.resources
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.GenerateResource.cache
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.CoreCompileInputs.cache
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.exe
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.pdb
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.frmCustomer.resources
+E:\Users\azaza\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.frmProduct.resources
